@@ -1,4 +1,4 @@
-##This is about the Datafactory TEST
+# This is about the Datafactory TEST
 
 - This project was created with [Create React App](https://github.com/facebook/create-react-app).
 - libraries: momentjs, chartjs, axios, react-chartjs-2, react-dom.
@@ -10,11 +10,15 @@ To clone project from github :
 
 ### `git clone https://github.com/yousefalsatouf/datafactory-test.git`
 
-Then :
+Then to install packages and depandecies :
 
-### `npm install to install packages and depandecies`
+### `npm install`
 
-In your terminal cd to project directory, and you can run to start project on localhost:
+In your terminal cd to project directory
+
+`cd datafactory`
+
+To start project on localhost:
 
 ### `yarn start`
 or
@@ -28,5 +32,5 @@ You will also see any lint errors in the console.
 
 ### Deployment
 
-### `yarn build` fails to minify
+### `yarn build`
 
