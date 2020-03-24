@@ -10,11 +10,12 @@ To clone project from github :
 
 ### `git clone https://github.com/yousefalsatouf/datafactory-test.git`
 
-Then to install packages and depandecies :
-
 In your terminal cd to project directory
 
 ### `cd datafactory`
+
+
+Then to install packages and depandecies :
 
 ### `npm install`
 
