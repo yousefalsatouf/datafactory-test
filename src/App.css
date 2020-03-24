@@ -1,0 +1,109 @@
+header
+{
+  text-align: center;
+  background-color: blue;
+  color: white;
+  padding: 1rem;
+}
+
+h4
+{
+  background-color: royalblue;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 10px 10px 10px gray;
+  padding: 2rem;
+}
+p{
+  font-weight: bolder;
+}
+nav
+{
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo
+{
+    padding-right: 1rem;
+}
+
+.left
+{
+  list-style-type: none;
+  width: 30%;
+  text-align: left;
+  display: flex;
+}
+
+.right
+{
+  list-style-type: none;
+  width: 30%;
+  text-align: right;
+  justify-content: flex-end;
+  display: flex;
+}
+
+li
+{
+  width: 15%;
+  font-size: 1.3rem;
+}
+
+img
+{
+    max-width: 100%;
+    border-radius: 50%;
+}
+
+.line-around-result
+{
+  border: 2px solid royalblue;
+  margin: 1rem auto;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-around;
+  height: 15rem;
+  padding-top: 1rem;
+}
+
+.line-around-result div
+{
+  width: 20%;
+  text-align: center;
+}
+.line-around-result div:last-child i
+{
+  font-size: 3rem;
+  margin-top: 3rem;
+}
+
+.line-around
+{
+  border: 2px solid royalblue;
+  margin: 1rem auto;
+  border-radius: 10px;
+  height: 40rem;
+}
+
+.bar-chart
+{
+  width: 100%;
+  float: right;
+}
+
+
+
+button
+{
+  font-weight: 700;
+  font-size: 1.5rem;
+  height: 7%;
+  margin: 3rem 25%;
+  background-color: blue;
+}
