@@ -12,11 +12,11 @@ To clone project from github :
 
 Then to install packages and depandecies :
 
-### `npm install`
-
 In your terminal cd to project directory
 
-`cd datafactory`
+### `cd datafactory`
+
+### `npm install`
 
 To start project on localhost:
 
